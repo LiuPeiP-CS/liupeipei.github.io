@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a Ph.D candidate in [Institute of Information Engineering](http://www.iie.ac.cn/) of Chinese Academy of Sciences studying on Information Extraction and Threat Intelligence Analysis under [Professor. Hongsong Zhu](http://people.ucas.edu.cn/~zhuhongsong). In addition to that, I'm also interested in Visual Question Answering (VQA), Intelligent Robot. I have earned my Master degree from joint-supervision of [Institute of Computing Technology](http://www.ict.ac.cn/) and [Shandong University of Science and Technology](https://www.sdust.edu.cn/), where I'm honored to have [Professor. Shuqiang Jiang](https://people.ucas.edu.cn/~sqjiang) as my academic advisor. I got my Bachelor degree from Shandong University of Science and Technology under the [Professor. Qingtian Zeng](http://cise.sdust.edu.cn/home/Page/teacher_detail/catId/30/id/107.html) and [Peng Zhang](http://cise.sdust.edu.cn/home/page/details/catId/85/id/206.html), where I also had some certificates of merit..
 
 A data-driven personal website
 ======
